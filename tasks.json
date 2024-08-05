@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Submit Company Information",
+    "description": "Provide basic company details.",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Verify Email Address",
+    "description": "Verify your email address through the link sent to you.",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Upload Logo",
+    "description": "Upload your company logo for branding.",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Set Up Payment Method",
+    "description": "Set up a payment method for transactions.",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Complete Profile",
+    "description": "Fill out your company profile details.",
+    "completed": false
+  }
+]
